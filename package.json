@@ -1,0 +1,17 @@
+{
+  "name": "samvpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw-init": "tailwindcss.exe init",
+    "tw-build": "tailwindcss.exe -i ./asset/css/input.css -o ./asset/css/output.css --watch",
+    "serve": "php -S localhost:8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.3.3"
+  }
+}

@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sam-cream: #FFFBF0;
+  --color-sam-orange: #EA580C;
+  --color-sam-orange-dark: #C2410C;
+  --color-sam-teal: #14B8A6;
+  --color-sam-dark: #27272A;
+  --color-sam-gray: #71717A;
+}
