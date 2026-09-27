@@ -95,19 +95,20 @@
       <!-- TRUST BAR -->
       <div class="grid grid-cols-2 md:grid-cols-4 gap-3 bg-white/60 border border-sam-dark/5 p-4 rounded-2xl mb-16 shadow-sm">
         <div class="flex flex-col items-center justify-center p-3 text-center">
-          <span class="text-2xl mb-1">⚡</span>
+          <i class="fa-solid fa-bolt text-2xl mb-1 text-sam-orange"></i>
           <span class="font-bold text-sam-dark text-sm">Super Cepat</span>
         </div>
         <div class="flex flex-col items-center justify-center p-3 text-center">
-          <span class="text-2xl mb-1">🔒</span>
+          <i class=" fa-solid fa-lock text-2xl mb-1 text-sam-orange"></i>
           <span class="font-bold text-sam-dark text-sm">Privasi Aman</span>
         </div>
         <div class="flex flex-col items-center justify-center p-3 text-center">
-          <span class="text-2xl mb-1">🇺🇸</span>
+          
+          <i class="fa-solid fa-flag-usa text-2xl mb-1 text-sam-orange"></i>
           <span class="font-bold text-sam-dark text-sm">IP Amerika</span>
         </div>
         <div class="flex flex-col items-center justify-center p-3 text-center">
-          <span class="text-2xl mb-1">💳</span>
+          <i class="fa-solid fa-credit-card text-2xl mb-1 text-sam-orange"></i>
           <span class="font-bold text-sam-dark text-sm">Bayar QRIS</span>
         </div>
       </div>
